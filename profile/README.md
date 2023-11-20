@@ -1,7 +1,9 @@
-<h2 align="left">Meddl leude, Mika Lührßen alias Milkaschokolade und Leif Haberecht alias Leifhackgaming hier. Wir sind pros in:</h2>
+<h2 align="left">Meddl leude, Mika Lührßen alias Milkaschokolade und Leif Haberecht alias Leifhackgaming hier.</h2>
 <br clear="both">
 
+
 <div align="left">
+  Wir gommen bestimmt mit dem klar:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -15,9 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
-  <img width="12" />
+  <img width="12" />/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -31,6 +31,3 @@
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e47zk1982iic8f3rl7mmh64q1ax7auttbfvg2ji9yyu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-©2023 Mika Lührßen alias Milkaschokolade und Leif Haberecht alias Leifhackgaming
